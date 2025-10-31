@@ -1,1 +1,1 @@
-# Tower-Breakers-algo
+# Tower-Breakers-algo If all towers start with height 1, the first player has no valid moves, so the second player wins. Otherwise, if the number of towers is even, the first player can mirror moves, and the second player can always respond to force a win. If the number of towers is odd and height > 1, the first player can make the first move and eventually force a win.
